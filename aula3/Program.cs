@@ -16,7 +16,26 @@ objCurso = new Curso();
 objCurso.nome="BSI";
 objUniversidade.AdicionarCurso(objCurso);
 
-Console.WriteLine(objUniversidade.nome);
+/*Console.WriteLine(objUniversidade.nome);
 foreach(var curso in objUniversidade.cursos){
     Console.WriteLine(curso.nome);
+}*/
+
+Turma turma = new Turma();
+
+turma.anoformacao = 2024;
+turma.turno = "Noite";
+turma.sala = "05B";
+objCurso.AdicionarTurma(turma);
+
+//Criar outra turma
+turma = new Turma();
+turma.anoformacao = 2024;
+turma.turno = "Manhã";
+
+//adicionando outra turma
+objCurso.AdicionarTurma(turma);
+
+foreach(var T in objCurso.turmas){
+    Console.WriteLine(T.turno);
 }

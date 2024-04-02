@@ -1,0 +1,15 @@
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\bin\Debug\net8.0\aula4.exe
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\bin\Debug\net8.0\aula4.deps.json
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\bin\Debug\net8.0\aula4.runtimeconfig.json
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\bin\Debug\net8.0\aula4.dll
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\bin\Debug\net8.0\aula4.pdb
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\aula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\aula4.AssemblyInfoInputs.cache
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\aula4.AssemblyInfo.cs
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\aula4.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\aula4.sourcelink.json
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\aula4.dll
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\refint\aula4.dll
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\aula4.pdb
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\aula4.genruntimeconfig.cache
+C:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula4\obj\Debug\net8.0\ref\aula4.dll
