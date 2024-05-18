@@ -1,10 +1,8 @@
 ﻿Industria industria = new Industria();
 
 industria.nome = "Chevrolet";
-industria.anofundacao = 1670;
+industria.anoFundacao = 1670;
 industria.localizacao = "Brasil - Maringa";
-
-Console.WriteLine(industria.ExibirInformacoes());
 
 LinhaProducao linhaProducao = new LinhaProducao();
 
@@ -12,6 +10,31 @@ linhaProducao.numero = 01;
 linhaProducao.tipo = "Iluminação";
 linhaProducao.capacidade = 20;
 
+industria.AdicionarLinhaProducao(linhaProducao);
+
+linhaProducao = new LinhaProducao();
+
+linhaProducao.numero = 02;
+linhaProducao.tipo = "Interior";
+linhaProducao.capacidade = 18;
+
+industria.AdicionarLinhaProducao(linhaProducao);
+
+foreach (var linha in industria.linhaProducao)
+{
+    Console.WriteLine(linha.numero);
+    Console.WriteLine(linha.capacidade);
+}
+
+Maquina maquina = new Maquina();
+
+maquina.id = 1;
+maquina.marca = "FR-L";
+maquina.modelo = "Khurl";
+
+Console.WriteLine(maquina.ExibirInformacoes());
+
+/*
 Console.WriteLine(linhaProducao.ExibirDetalhes());
 
 Maquina maquina = new Maquina();
@@ -46,14 +69,6 @@ produto.preco = 250;
 
 Console.WriteLine(produto.ExibirDetalhes());
 
-linhaProducao = new LinhaProducao();
-
-linhaProducao.numero = 02;
-linhaProducao.tipo = "Interior";
-linhaProducao.capacidade = 18;
-
-Console.WriteLine(linhaProducao.ExibirDetalhes());
-
 maquina = new Maquina();
 
 maquina.id = 3;
@@ -84,4 +99,4 @@ produto.nome = "Volante";
 produto.codigo = "VL-01";
 produto.preco = 500;
 
-Console.WriteLine(produto.ExibirDetalhes());
+Console.WriteLine(produto.ExibirDetalhes());*/
